@@ -1,0 +1,15 @@
+C:\Users\adeshina.adebayo\Documents\Projects\ConsoleApplication\bin\Debug\net6.0\ConsoleApplication.exe
+C:\Users\adeshina.adebayo\Documents\Projects\ConsoleApplication\bin\Debug\net6.0\ConsoleApplication.deps.json
+C:\Users\adeshina.adebayo\Documents\Projects\ConsoleApplication\bin\Debug\net6.0\ConsoleApplication.runtimeconfig.json
+C:\Users\adeshina.adebayo\Documents\Projects\ConsoleApplication\bin\Debug\net6.0\ConsoleApplication.dll
+C:\Users\adeshina.adebayo\Documents\Projects\ConsoleApplication\bin\Debug\net6.0\ref\ConsoleApplication.dll
+C:\Users\adeshina.adebayo\Documents\Projects\ConsoleApplication\bin\Debug\net6.0\ConsoleApplication.pdb
+C:\Users\adeshina.adebayo\Documents\Projects\ConsoleApplication\obj\Debug\net6.0\ConsoleApplication.csproj.AssemblyReference.cache
+C:\Users\adeshina.adebayo\Documents\Projects\ConsoleApplication\obj\Debug\net6.0\ConsoleApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adeshina.adebayo\Documents\Projects\ConsoleApplication\obj\Debug\net6.0\ConsoleApplication.AssemblyInfoInputs.cache
+C:\Users\adeshina.adebayo\Documents\Projects\ConsoleApplication\obj\Debug\net6.0\ConsoleApplication.AssemblyInfo.cs
+C:\Users\adeshina.adebayo\Documents\Projects\ConsoleApplication\obj\Debug\net6.0\ConsoleApplication.csproj.CoreCompileInputs.cache
+C:\Users\adeshina.adebayo\Documents\Projects\ConsoleApplication\obj\Debug\net6.0\ConsoleApplication.dll
+C:\Users\adeshina.adebayo\Documents\Projects\ConsoleApplication\obj\Debug\net6.0\ref\ConsoleApplication.dll
+C:\Users\adeshina.adebayo\Documents\Projects\ConsoleApplication\obj\Debug\net6.0\ConsoleApplication.pdb
+C:\Users\adeshina.adebayo\Documents\Projects\ConsoleApplication\obj\Debug\net6.0\ConsoleApplication.genruntimeconfig.cache
