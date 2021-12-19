@@ -62,41 +62,56 @@ namespace ConsoleApplication
             //     Console.WriteLine("Above the speed limit");
 
 
-                var diff = speedOfVehicle - speedLimit;
-                var demeritPoint = diff / 5;
-                Console.WriteLine("Your Demerit Point is {0}", demeritPoint);
-                if (demeritPoint > 12)
-                {
-                    Console.WriteLine("License Suspended");
-                }
-                else
-                {
-                    Console.WriteLine("License not Suspended");
-                }
+            //     var diff = speedOfVehicle - speedLimit;
+            //     var demeritPoint = diff / 5;
+            //     Console.WriteLine("Your Demerit Point is {0}", demeritPoint);
+            //     if (demeritPoint > 12)
+            //     {
+            //         Console.WriteLine("License Suspended");
+            //     }
+            //     else
+            //     {
+            //         Console.WriteLine("License not Suspended");
+            //     }
 
-            }
+            // }
 
 
-                // Write a program to count how many numbers between 1 and 100 are divisible by 3 with no remainder. Display the count on the console.
-                for (int i = 0; i <= 100; i++)
-                {
-                    if(i%3 == 0 ){
-                         Console.WriteLine(i);
-                    }
-                } 
+                //Write a program to count how many numbers between 1 and 100 are divisible by 3 with no remainder. Display the count on the console.
+                // for (int i = 0; i <= 100; i++)
+                // {
+                //     if(i%3 == 0 ){
+                //          Console.WriteLine(i);
+                //     }
+                // } 
 
 
                 // Write a program and continuously ask the user to enter a number or "ok" to exit. Calculate the sum of all the previously entered numbers and display it on the console.
-                Console.WriteLine("Enter a number or enter ok to quit");
-                int value = 0;
-                while(true){
-                   var userInput = Console.ReadLine();
-                   if(userInput == "ok"){
-                       break;
-                   }
-                   else{
-                      value =  Convert.ToInt32(userInput) + Convert.ToInt32(userInput);
-                   }
+               
+                // Console.WriteLine("Enter a number or enter ok to quit");
+                // int value = 0;
+                // while(true){
+                //    var userInput = Console.ReadLine();
+                //    if(userInput == "ok"){
+                //        break;
+                //    }
+                //    else{
+                //       value =  Convert.ToInt32(userInput) + Convert.ToInt32(userInput);
+                //    }
+                // }
+                // Console.WriteLine(value);
+
+
+                // 3- Write a program and ask the user to enter a number. Compute the factorial of the number and print it on the console. For example, if the user enters 5, the program should calculate 5 x 4 x 3 x 2 x 1 and display it as 5! = 120.
+
+
+                Console.WriteLine("Enter the number you need to solve");
+                int factorial = Convert.ToInt32(Console.ReadLine());
+                int value = 1;
+                for (int i = factorial; i > 0; i--)
+                {
+                    Console.WriteLine(i);
+                        value *= i;                    
                 }
                 Console.WriteLine(value);
 
