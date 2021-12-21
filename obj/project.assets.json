@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\adeshina.adebayo\\.nuget\\packages\\": {}
+    "/home/crown/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\adeshina.adebayo\\Documents\\Projects\\ConsoleApplication\\ConsoleApplication.csproj",
+      "projectUniqueName": "/home/crown/Documents/Console/CSharp/ConsoleApplication.csproj",
       "projectName": "ConsoleApplication",
-      "projectPath": "C:\\Users\\adeshina.adebayo\\Documents\\Projects\\ConsoleApplication\\ConsoleApplication.csproj",
-      "packagesPath": "C:\\Users\\adeshina.adebayo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\adeshina.adebayo\\Documents\\Projects\\ConsoleApplication\\obj\\",
+      "projectPath": "/home/crown/Documents/Console/CSharp/ConsoleApplication.csproj",
+      "packagesPath": "/home/crown/.nuget/packages/",
+      "outputPath": "/home/crown/Documents/Console/CSharp/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\adeshina.adebayo\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "/home/crown/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
@@ -58,7 +58,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/snap/dotnet-sdk/152/sdk/6.0.101/RuntimeIdentifierGraph.json"
       }
     }
   }

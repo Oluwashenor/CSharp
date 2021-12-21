@@ -107,13 +107,13 @@ namespace ConsoleApplication
 
                 Console.WriteLine("Enter the number you need to solve");
                 int factorial = Convert.ToInt32(Console.ReadLine());
-                int value = 1;
+                int value2 = 1;
                 for (int i = factorial; i > 0; i--)
                 {
                     Console.WriteLine(i);
                         value *= i;                    
                 }
-                Console.WriteLine(value);
+                Console.WriteLine(value2);
 
 
 
@@ -135,8 +135,8 @@ namespace ConsoleApplication
                 // Write a program and ask the user to enter a series of numbers separated by comma. Find the maximum of the numbers and display it on the console. For example, if the user enters “5, 3, 8, 1, 4", the program should display 8.
 
                 Console.WriteLine("Enter your Numbers seperated by Commas ?");
-                var userInput = Console.ReadLine();
-                var seperated = userInput.Split(',');
+                var userInput2 = Console.ReadLine();
+                var seperated = userInput2.Split(',');
                 var max = 0;
                 foreach(var s in seperated){
                     var current = Convert.ToInt32(s);
