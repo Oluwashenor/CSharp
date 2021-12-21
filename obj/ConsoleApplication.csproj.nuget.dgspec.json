@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/home/crown/Documents/Console/CSharp/ConsoleApplication.csproj": {}
+    "C:\\Users\\Crown\\Documents\\Console\\CSharp\\ConsoleApplication.csproj": {}
   },
   "projects": {
-    "/home/crown/Documents/Console/CSharp/ConsoleApplication.csproj": {
+    "C:\\Users\\Crown\\Documents\\Console\\CSharp\\ConsoleApplication.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/crown/Documents/Console/CSharp/ConsoleApplication.csproj",
+        "projectUniqueName": "C:\\Users\\Crown\\Documents\\Console\\CSharp\\ConsoleApplication.csproj",
         "projectName": "ConsoleApplication",
-        "projectPath": "/home/crown/Documents/Console/CSharp/ConsoleApplication.csproj",
-        "packagesPath": "/root/.nuget/packages/",
-        "outputPath": "/home/crown/Documents/Console/CSharp/obj/",
+        "projectPath": "C:\\Users\\Crown\\Documents\\Console\\CSharp\\ConsoleApplication.csproj",
+        "packagesPath": "C:\\Users\\Crown\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Crown\\Documents\\Console\\CSharp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/root/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\Crown\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
@@ -52,7 +52,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/snap/dotnet-sdk/152/sdk/6.0.101/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }
