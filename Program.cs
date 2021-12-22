@@ -245,7 +245,7 @@ namespace ConsoleApplication
      
         static void Main(string[] args)
         {
-            Strings.WorkingWithText();
+            Strings.ExerciseOne();
         }
     }
 }
